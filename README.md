@@ -40,6 +40,8 @@ A little imperfection that is totally planned and honestly makes it way cooler t
 |---|---|---|---|---:|---:|---:|---:|---|
 | eSUN PLA+ Black 3D Printing Filament | PLA+ | 1.75 mm | Black | 655 g | 15% | 9.24 | 14.1 | https://robocraze.com/products/esun-pla-3d-printing-filament-1-75mm-black-color |
 
+**waittttt**  before rejection printing legion doesnt have any 40cm+ bed size printers and this guy is my friend who is just doint it for me at the price of filament and leaves 2 block away so no shipping too 
+
 The whole thing needs about 655 grams of eSUN PLA+ at 15% infill so one spool covers it with some left over
 
 ## Sourcing
